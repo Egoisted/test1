@@ -18,3 +18,4 @@ begin
  if n>m then writeln('Гласных больше чем солгасных') else writeln('Согласных больше чем гласных');
  if n=m then writeln('Гласных и согласных равное количество');
 end.
+//ghbdtn
