@@ -1,4 +1,5 @@
 ﻿program Laboratornaya8;
+ // Отличный код
 type 
 x = set of 'а'..'я';
 var glas,sogl,txt: x;
